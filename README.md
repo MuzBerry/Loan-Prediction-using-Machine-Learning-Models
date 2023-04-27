@@ -1,6 +1,6 @@
 # Loan-Prediction-using-Machine-Learning-Models
 
-This project aims to predict whether a loan application will be accepted or not based on a dataset of previously approved and rejected loan applications. The project utilized five different classification models to predict loan approval status. These models are:
+This project aims to predict whether a loan application will be accepted or not based on a dataset of previously approved and rejected loan applications. The project utilized two different classification models to predict loan approval status. These models are:
 
 - Logistic Regression
 - Random Forest
