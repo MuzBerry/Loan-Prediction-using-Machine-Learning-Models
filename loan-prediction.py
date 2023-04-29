@@ -134,7 +134,7 @@ with st.container():
 
         st.write('_For any issue contact me via:_')
         st.info(
-            '[Muzammil Baloch 612012](mailto:{muzammil.612012.it@mhssce.ac.in})', icon="📩")
+            '[Muzammil Baloch (mailto:{muzammil.612012.it@mhssce.ac.in})', icon="📩")
     with left_column:
         st_lottie(animation_contact, speed=1, height=200, key="third")
 
@@ -194,7 +194,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2023 Codefellas</a></p>
+<p>&copy; 2023 Muzberry</a></p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
