@@ -4,6 +4,20 @@ This project aims to predict whether a loan application will be accepted or not 
 
 - Logistic Regression
 - Random Forest
+- 
+##Original Model Accuracy:
+
+Logistic Regression: 79.22%
+K-Nearest Neighbors (KNN): 78.57%
+Support Vector Machine (SVM): 79.22%
+Random Forest: 78.57%
+
+##Improved Model Accuracy:
+
+Logistic Regression: 87.80%
+K-Nearest Neighbors (KNN): 86.99%
+Support Vector Machine (SVM): 87.80%
+Random Forest: 84.55%
 
 ## Dataset
 
