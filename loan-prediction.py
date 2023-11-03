@@ -113,7 +113,7 @@ with st.container():
         CoapplicantIncome = st.number_input("Coapplicant Income : ", value=0)
         LoanAmount = st.number_input("Loan Amount : ", value=0)
         Loan_Amount_Term = st.number_input("Loan Amount Term : ", value=0)
-        Credit_History = st.radio("Credit History :", ["No", "Yes"])
+        Credit_History = st.radio("Credit History :", [0,1])
         Property_Area = st.selectbox(
             "Property_Area : ", ["Urban", "Rural", "Semiurban"]
         )
