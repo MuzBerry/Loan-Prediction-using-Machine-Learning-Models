@@ -115,7 +115,7 @@ with st.container():
         Loan_Amount_Term = st.number_input("Loan Amount Term : ", value=0)
         Credit_History = st.radio("Credit History :", [0,1])
         Property_Area = st.selectbox(
-            "Property_Area : ", ["Urban", "Rural", "Semiurban"]
+            "Property Area : ", ["Urban", "Rural", "Semiurban"]
         )
 
         sample = prepare_input_data_for_model(
