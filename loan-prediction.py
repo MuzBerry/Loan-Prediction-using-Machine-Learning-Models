@@ -108,12 +108,12 @@ with st.container():
         Married = st.radio("Married :", ["Yes", "No"])
         Dependents = st.selectbox("Dependents : ", ["0", "1", "2", "3+"])
         Education = st.radio("Education :", ["Graduate", "not Graduate"])
-        Self_Employed = st.radio("Self_Employed:", ["Yes", "No"])
-        ApplicantIncome = st.number_input("ApplicantIncome : ", value=0)
-        CoapplicantIncome = st.number_input("CoapplicantIncome : ", value=0)
-        LoanAmount = st.number_input("LoanAmount : ", value=0)
-        Loan_Amount_Term = st.number_input("Loan_Amount_Term : ", value=0)
-        Credit_History = st.radio("Credit_History :", [0, 1])
+        Self_Employed = st.radio("Self Employed:", ["Yes", "No"])
+        ApplicantIncome = st.number_input("Applicant Income : ", value=0)
+        CoapplicantIncome = st.number_input("Coapplicant Income : ", value=0)
+        LoanAmount = st.number_input("Loan Amount : ", value=0)
+        Loan_Amount_Term = st.number_input("Loan Amount Term : ", value=0)
+        Credit_History = st.radio("Credit History :", ["No", "Yes"])
         Property_Area = st.selectbox(
             "Property_Area : ", ["Urban", "Rural", "Semiurban"]
         )
