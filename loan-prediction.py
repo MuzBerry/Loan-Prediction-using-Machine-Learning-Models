@@ -168,7 +168,7 @@ with st.container():
     with right_column:
         st.write("_For any issue contact me via:_")
         st.info(
-            "[Email](mailto:muzammilbaloch74@gmail.com) 📩"
+            "[Email ](mailto:muzammilbaloch74@gmail.com) 📩"
         )
         st.info(
             "[LinkedIn](https://www.linkedin.com/in/muzammil-baloch-78524b209/)"
