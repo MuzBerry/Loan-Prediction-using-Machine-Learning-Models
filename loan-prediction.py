@@ -235,7 +235,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2023 Codefellas</a></p>
+<p>&copy; 2023 Muzammil Baloch</a></p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
