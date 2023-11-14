@@ -168,19 +168,14 @@ with st.container():
     with right_column:
         st.write("_For any issue contact me via:_")
         st.info(
-            "[Mohammed Amarnath 612004](mailto:mohammed.612004.it@mhssce.ac.in)",
-            icon="📩",
+            "[Email](mailto:muzammilbaloch74@gmail.com) 📩"
         )
         st.info(
-            "[Muzammil Baloch 612012](mailto:{muzammil.612012.it@mhssce.ac.in})",
-            icon="📩",
+            "[LinkedIn](https://www.linkedin.com/in/muzammil-baloch-78524b209/)"
         )
-        st.info("[Maanav Gupta 612017](mailto:maanav.612017.it@mhssce.ac.in)", icon="📩")
-
         st.info(
-            "[Dansish Fakira 612019](mailto:danish.612019.it@mhssce.ac.in)", icon="📩"
+            "[GitHub](https://github.com/MuzBerry/)"
         )
-
     with left_column:
         st_lottie(animation_contact, speed=1, height=200, key="third")
 
