@@ -1,5 +1,7 @@
 # Loan-Prediction-using-Machine-Learning-Models
 
+For a live demonstration of the loan prediction model, you can visit [this link](https://loan-prediction-using-machine-learning-models-muzberry.streamlit.app/).
+
 This project aims to predict whether a loan application will be accepted or not based on a dataset of previously approved and rejected loan applications. The project utilized two different classification models to predict loan approval status. These models are:
 
 - Logistic Regression
